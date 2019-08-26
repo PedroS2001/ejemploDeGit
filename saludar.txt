@@ -1,2 +1,5 @@
-Hola
-Como estas?
+Hola Como estas?
+git clone
+git add
+git commit -m "mensaje de commit"
+git push 
